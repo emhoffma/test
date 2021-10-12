@@ -5,7 +5,7 @@
        title="Girl with a Pearl Earring"
        author="JSTOR Labs team"
        banner=https://upload.wikimedia.org/wikipedia/commons/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg
-       layout-"vertical"
+       layout="vertical"
        
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
